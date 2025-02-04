@@ -1,0 +1,7 @@
+models
+iphone x
+iphone 12
+iphone 13
+iphone 14
+iphone 15
+iphone 16
