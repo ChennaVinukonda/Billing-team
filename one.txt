@@ -1,0 +1,14 @@
+app:
+  name: MyWebApp
+  version: 1.0.0
+
+server:
+  port: 8080
+
+database:
+  host: localhost
+  port: 5432
+  username: db_user
+  password: db_pass
+  name: my_database
+
